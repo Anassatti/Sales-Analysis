@@ -37,13 +37,21 @@ I follow below planning to produce meaningful dashboards:
              2. Separate city for the purchase address column, which include full address and the city withing that.
              3. There are duplicate in cities, that is mean alot of clients from the same city, but they different in their own address, so here I dded city code.
              4. Group by cities by sales, revealed which cities have the highest sales.Below dashboard show that:
-            ![image](https://user-images.githubusercontent.com/73906550/120062791-94c6f580-c06c-11eb-9733-f8cd02b633eb.png)
+             
+            ![image](https://user-images.githubusercontent.com/73906550/120064000-bfb44800-c072-11eb-9106-9611e007af6f.png)
+
+            
    ## 3.What the time we should increase advertistments to maximaize the products?
       1. Covert order date to date time.
       2. Add two column for the order time(Hours, Minutes). Below graph show that
-         ![image](https://user-images.githubusercontent.com/73906550/120062915-26366780-c06d-11eb-8e4a-0ed85e4350bf.png)
+      
+   ![image](https://user-images.githubusercontent.com/73906550/120064002-ce026400-c072-11eb-8bd3-034f0ca8aa10.png)
+
+         
   ## 4.what product sold the most?Why do you think it sold the most?     
-    ![image](https://user-images.githubusercontent.com/73906550/120063550-54697680-c070-11eb-8a60-33aa2f651d3c.png)
+  
+![image](https://user-images.githubusercontent.com/73906550/120064009-d9ee2600-c072-11eb-8f68-2bf1a4103d5f.png)
+
 
 # 5. Model Building
   I built model to predict product prices. 
