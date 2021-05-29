@@ -24,7 +24,10 @@ I follow below planning to produce meaningful dashboards:
               2. Add new column called sales, which is quanity*price for each month
               3. Convert existed columns to their right type, for instance price was string, it should integer
               4. Group By every month by sum. Here we answer the question, below graph show that:
-              ![image](https://user-images.githubusercontent.com/73906550/120062497-3d745580-c06b-11eb-9b76-da1a5838e235.png)
+              
+        ![image](https://user-images.githubusercontent.com/73906550/120063833-d4441080-c071-11eb-8641-2a844e97bfa8.png)
+
+              
               
  ## 2. What city had the highest number of sales
            To answer this question, I did:
