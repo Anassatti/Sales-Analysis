@@ -8,11 +8,17 @@ I follow below planning to produce meaningful dashboards:
 
 # 2.Data Collection:
      Sales data for 12 months are available.
+     
 # 3. Data Cleaning
+
    I did below steps:
+   
      1. Merge all 12 months sales data into single files
+     
      2. Drop all NAN rows from the data.
+     
      3. Convert the date to datetime.
+     
      4. Remove'Or' from dataframe.
 
 
