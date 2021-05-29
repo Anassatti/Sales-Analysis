@@ -24,8 +24,9 @@ I follow below planning to produce meaningful dashboards:
               2. Add new column called sales, which is quanity*price for each month
               3. Convert existed columns to their right type, for instance price was string, it should integer
               4. Group By every month by sum. Here we answer the question, below graph show that:
-              
-        ![image](https://user-images.githubusercontent.com/73906550/120063833-d4441080-c071-11eb-8641-2a844e97bfa8.png)
+
+
+![image](https://user-images.githubusercontent.com/73906550/120063937-63512880-c072-11eb-8caf-00e6676c5791.jpg)
 
               
               
