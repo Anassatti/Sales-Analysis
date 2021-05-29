@@ -25,8 +25,9 @@ I follow below planning to produce meaningful dashboards:
               3. Convert existed columns to their right type, for instance price was string, it should integer
               4. Group By every month by sum. Here we answer the question, below graph show that:
 
+![image](https://user-images.githubusercontent.com/73906550/120063977-9eebf280-c072-11eb-8e5e-f82f8c799bd8.png)
 
-![image](https://user-images.githubusercontent.com/73906550/120063937-63512880-c072-11eb-8caf-00e6676c5791.jpg)
+
 
               
               
